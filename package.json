@@ -1,0 +1,33 @@
+{
+  "name": "@aleengo/file-resolver",
+  "version": "1.0.0",
+  "description": "Resolve the path of a file from a given path",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "node index.js",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aleengo/file-resolver.git"
+  },
+  "keywords": [
+    "file",
+    "resolver",
+    "file-resolver"
+  ],
+  "author": "aleengo",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/aleengo/file-resolver/issues"
+  },
+  "homepage": "https://github.com/aleengo/file-resolver#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
